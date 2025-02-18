@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "body-parser": "^1.20.3",
-    "cookie-parser": "^1.4.3",
+    "cookie-parser": "^1.4.7",
     "dotenv": "^16.0.1",
     "express": "^4.21.1",
     "fcc-express-bground": "git+https://github.com/vijayaratnakumari/freecodecamp.git",
