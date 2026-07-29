@@ -7,7 +7,7 @@
     "dotenv": "^16.0.1",
     "express": "^4.22.1",
     "fcc-express-bground": "git+https://github.com/vijayaratnakumari/freecodecamp.git",
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.14"
   },
   "main": "server.js",
   "scripts": {
